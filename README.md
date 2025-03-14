@@ -32,7 +32,7 @@ Backend: PHP (for booking and package management)
 
 Clone the repository:
 
-git clone https://github.com/[your-username](https://github.com/LaxmiiPatil)/planify.git
+git clone https://github.com/(https://github.com/LaxmiiPatil)/planify.git
 
 🤝 Contributing
 Feel free to contribute to this project by improving UI/UX, adding features, or optimizing code.
