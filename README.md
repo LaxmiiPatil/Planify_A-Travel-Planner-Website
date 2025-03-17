@@ -35,9 +35,11 @@ Clone the repository:
 git clone https://github.com/(https://github.com/LaxmiiPatil)/planify.git
 
 🤝 Contributing
+
 Feel free to contribute to this project by improving UI/UX, adding features, or optimizing code.
 
 📸 Preview
+
 
 ![Screenshot 2025-03-14 123559](https://github.com/user-attachments/assets/bcf460c5-0563-4679-98e1-75a36abd54eb)
 
